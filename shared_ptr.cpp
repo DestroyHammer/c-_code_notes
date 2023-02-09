@@ -34,4 +34,4 @@ int main()
   spt0.reset();
   spt0.reset(new example);
   
-  
+}
